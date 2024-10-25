@@ -26,13 +26,23 @@
 
 3. Зашифруйте созданный раздел с помощью LUKS.
 
+Подготовка раздела
+
 ![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/Prepare.png)
+
+Монтирование раздела
 
 ![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/Mount.png)
 
+Форматирование раздела
+
 ![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/Format.png)
 
+МОнтирование "открытого раздела"
+
 ![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/MountSecret.png)
+
+Завершение работы
 
 ![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/Umount.png)
 
