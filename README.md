@@ -6,35 +6,35 @@
 1. Установите eCryptfs.
 2. Добавьте пользователя cryptouser.
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/AddCryptouser.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/AddCryptouser.png)
 
 3. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/CryptHome.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/CryptHome.png)
 
 
 ### Задание 2
 
 1. Установите поддержку LUKS.
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/CryptSetup.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/CryptSetup.png)
 
 
 2. Создайте небольшой раздел, например, 100 Мб.
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/disk.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/disk.png)
 
 3. Зашифруйте созданный раздел с помощью LUKS.
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/Prepare.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/Prepare.png)
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/Mount.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/Mount.png)
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/Format.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/Format.png)
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/MountSecret.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/MountSecret.png)
 
-![img](https://github.com/RepinAndrey/ddl_dml/blob/main/img/Umount.png)
+![img](https://github.com/RepinAndrey/HostProtection/blob/main/img/Umount.png)
 
 
 
